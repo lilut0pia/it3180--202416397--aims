@@ -19,3 +19,7 @@
 ### Added
 - sort_by_title() and sort_by_cost()
 - search_by_category() method for Cart
+
+## [1.0.1] - 2026-11-06
+### Fixed
+- search_by_title is now case-insensitive (#16)
