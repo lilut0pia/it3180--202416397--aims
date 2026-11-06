@@ -7,3 +7,6 @@
 - Cart.print_cart(), search_by_title(), total_cost_with_discount() ...
 ### Fixed
 - Giỏ hàng nhận đĩa thứ 21 (#6)
+## [Unreleased]
+### Added
+- sort_by_title() and sort_by_cost() methods for Cart
