@@ -27,7 +27,9 @@ class Cart:
         return sum(item.cost for item in self.items)
 
     def get_discounted_total(self, percent):
-        return self.get_total_cost() * percent / 100
+        if not 0 <= percent <= 100:
+            raise ValueError("Discount percent must be between 0 and 100")
+        return self.total_cost() * (1 - percent / 100)
 
     def print_cart(self):
         """In danh sách DVD và tổng tiền của giỏ hàng."""
