@@ -63,7 +63,7 @@ Ran 7 tests
 OK
 ```
 
-## Các mốc làm việc
+## Trả lời câu hỏi thảo luận
 
 | Mốc | Nội dung | Tài liệu |
 | :---: | :--- | :--- |
@@ -72,6 +72,16 @@ OK
 | Lab 03 | Bugfix flow, xử lý xung đột và hoàn tác | [tl_lab03.md](docs/tl_lab03.md) |
 | Lab 04 | Release flow và phiên bản phát hành | [tl_lab04.md](docs/tl_lab04.md) |
 | Lab 05 | Hotfix flow và bảo trì nhiều phiên bản | [tl_lab05.md](docs/tl_lab05.md) |
+
+## Các mốc phiên bản
+
+| Mốc | Phiên bản |
+| :---: | :--- |
+| Lab 01 | `v0.1.0` |
+| Lab 02 | `v0.2.0` |
+| Lab 03 | `v0.3.0` |
+| Lab 04 | `v1.0.0`, `v1.0.1` |
+| Lab 05 | `v1.1.0` |
 
 Các thay đổi chức năng và bản sửa lỗi được ghi nhận trong
 [CHANGELOG.md](CHANGELOG.md).
