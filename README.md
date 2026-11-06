@@ -6,6 +6,7 @@ Trả lời các câu hỏi thảo luận:
 | :---: | :--- | :---: |
 | 01 | Thiết lập môi trường & Refactor flow | [tl_lab01.md](docs/tl_lab01.md) |
 | 02 | Feature/Topic flow & Pull Request | [tl_lab02.md](docs/tl_lab02.md) |
+| 03 | Bugfix flow, xung đột & hoàn tác | [tl_lab03.md](docs/tl_lab03.md) |
 
 ## Chạy chương trình
 Yêu cầu Python 3.10 trở lên
