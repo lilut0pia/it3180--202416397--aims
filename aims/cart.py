@@ -26,6 +26,9 @@ class Cart:
     def total_cost(self):
         return sum(item.cost for item in self.items)
 
+    def get_discounted_total(self, percent):
+        return self.get_total_cost() * percent / 100
+
     def print_cart(self):
         """In danh sách DVD và tổng tiền của giỏ hàng."""
         print("***********************CART***********************")
