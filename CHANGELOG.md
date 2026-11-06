@@ -10,3 +10,6 @@
 ## [Unreleased]
 ### Added
 - sort_by_title() and sort_by_cost() methods for Cart
+## [Unreleased]
+### Added
+- search_by_category() method for Cart
